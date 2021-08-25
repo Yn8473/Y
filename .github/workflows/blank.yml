@@ -1,6 +1,4 @@
-name: TRICK
-
-name: Broteach
+name: Trick
 
 on: workflow_dispatch
 
