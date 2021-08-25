@@ -1,3 +1,5 @@
+name: TRICK
+
 name: Broteach
 
 on: workflow_dispatch
@@ -6,7 +8,7 @@ jobs:
   build:
 
     runs-on: windows-latest
-    timeout-minutes: 999999
+    timeout-minutes: 9999
 
     steps:
     - name: Download
